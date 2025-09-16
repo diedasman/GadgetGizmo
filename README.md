@@ -1,0 +1,14 @@
+# GadgetGizmo
+
+## Pinout
+
+- MUSHROOM_BUTT : D35
+- TOGGLE_1 : D32
+- TOGGLE_2 : D33
+- TOGGLE_3 : D25
+- TOGGLE_4 : D26
+- LED_GRN_1 : D27
+- LED_GRN_2 : D14
+- LED_BLU_1 : D12
+- LED_BLU_2 : D13
+- LED_HALO_RED : D15 
