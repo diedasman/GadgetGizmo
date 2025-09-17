@@ -11,12 +11,12 @@ You’ll see something like this (expand as files are added):
 ```
 / (repo root)
 ├─ README.md
-├─ firmware/
-│ ├─ esp32_pwm_sequences/ # main PWM sequencing firmware
-│ ├─ basic_io_tester/ # simple toggles -> LEDs
-│ └─ puzzle_modes/ # Simon, reflex, etc.
+├─ sketches/
+│ ├─ blank/ # contains template Arduino IDE sketch
+│ ├─ fidget/ # project folder fo "fidget" sketch
+│ └─ puzzle_modes/ # coming soon...
 ├─ hardware/
-│ ├─ schematics/ # Eagle / KiCad / PDFs
+│ ├─ models/ # Eagle / KiCad / PDFs
 │ └─ bom/ # CSV / spreadsheet bills of materials
 ├─ docs/ # additional docs, tutorials
 └─ assets/
