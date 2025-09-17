@@ -6,6 +6,27 @@ firmware features, and creative LED/button interactions — all without messy br
 
 ---
 
+## 📂 Repo structure (top-level)
+You’ll see something like this (expand as files are added):
+```
+/ (repo root)
+├─ README.md
+├─ firmware/
+│ ├─ esp32_pwm_sequences/ # main PWM sequencing firmware
+│ ├─ basic_io_tester/ # simple toggles -> LEDs
+│ └─ puzzle_modes/ # Simon, reflex, etc.
+├─ hardware/
+│ ├─ schematics/ # Eagle / KiCad / PDFs
+│ └─ bom/ # CSV / spreadsheet bills of materials
+├─ docs/ # additional docs, tutorials
+└─ assets/
+  ├─ photos/
+  └─ diagrams/
+```
+
+---
+
+
 ## ✨ Features  
 
 - 🟢 **4x LEDs** (Green + Blue) for status, PWM fading, or sequencing  
