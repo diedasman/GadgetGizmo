@@ -5,8 +5,8 @@ It’s designed for makers, tinkerers, and embedded developers who want a hands-
 firmware features, and creative LED/button interactions — all without messy breadboards.  
 
 ## 📝 Sketches
-[Template](./sketches/blank/)
-[Fidget](./sketches/fidget/)
+* [Template](./sketches/blank/)
+* [Fidget](./sketches/fidget/)
 
 ---
 
