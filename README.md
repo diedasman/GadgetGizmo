@@ -4,6 +4,9 @@ The **GadgetGizmo** is a customizable **desktop ESP32 development module** wrapp
 It’s designed for makers, tinkerers, and embedded developers who want a hands-on way to test out ESP32 GPIOs,  
 firmware features, and creative LED/button interactions — all without messy breadboards.  
 
+## Sketches
+[Template](./sketches/blank/)
+
 ---
 
 ## 📂 Repo structure (top-level)
