@@ -1,4 +1,4 @@
-# ⚡ GadgetGizmo  
+# 🕹️ GadgetGizmo  
 
 The **GadgetGizmo** is a customizable **desktop ESP32 development module** wrapped in a neat enclosure.  
 It’s designed for makers, tinkerers, and embedded developers who want a hands-on way to test out ESP32 GPIOs,  
@@ -25,7 +25,6 @@ You’ll see something like this (expand as files are added):
 ```
 
 ---
-
 
 ## ✨ Features  
 
@@ -61,7 +60,7 @@ The GadgetGizmo pinout is fixed to simplify firmware development.
 This repo is the **main project development folder**.  
 Here you’ll find (as development progresses):  
 
-- 📜 **Firmware sketches** (`/firmware/`) – multiple flavors of code for the device  
+- 📜 **Firmware sketches** (`/sketches/`) – multiple flavors of code for the device  
 - 🧾 **BOMs (Bill of Materials)** – parts lists for building your own unit  
 - 🖼 **Schematics** – wiring diagrams and reference designs  
 - 📝 **Documentation** – usage guides and example workflows  
