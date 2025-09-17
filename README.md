@@ -6,6 +6,7 @@ firmware features, and creative LED/button interactions — all without messy br
 
 ## 📝 Sketches
 [Template](./sketches/blank/)
+[Fidget](./sketches/fidget/)
 
 ---
 
